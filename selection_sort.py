@@ -1,6 +1,6 @@
 #selection sort = it searches the smallest element in the list , 
 #and swap them with the first element , and repeat this for remaining elements , until the last element .
-
+# O(n^2)
 
 import sys 
 A = [64, 25, 12, 22, 11] 
